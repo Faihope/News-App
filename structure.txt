@@ -1,0 +1,20 @@
+|-News-App
+    |-app/
+        |-main/
+            |-__init__.py
+            |-errors.py
+            |-forms.py
+            |-views.py
+        |-static/
+        |-templates/
+        |-__init__.py
+        |-models.py
+        |-requests.py
+    |-tests/
+        |-test_movie.py
+        |-test_review.py
+    |-virtual/
+    |-config.py
+    |-.gitignore
+    |-manage.py
+    |-start.sh
